@@ -71,6 +71,7 @@ nav {
 .logo, .rs, footer p, .menu_icon { padding: 1rem; }
 .logo { width: 50px; }
 .rs li { padding: 0 1em; }
+.rs li a svg:hover { color: #F9F9F9; }
 .menu_icon {
     color: #353535;
     cursor: pointer;
@@ -89,7 +90,6 @@ nav {
     z-index: 1000;
     width: 100vw;
     height: 100vh;
-    padding: 1rem;
     opacity: 0;
     background-color: rgba(0, 0, 0, 0.9);
     transition: 500ms ease-in-out;
@@ -97,6 +97,7 @@ nav {
 .menu_icon_close {
     position: fixed;
     right: 1rem;
+    top: 2rem;
     color: #F9F9F9;
 }
 .menu ul { 
@@ -106,7 +107,7 @@ nav {
     font-weight: 200;
     line-height: 2em;
 }
-.menu ul li a { color: #F9F9F9; }
+.menu ul li a { color: #F9F9F9; letter-spacing: 1px; }
 
 /* Menu Active */
 .menu.active {
