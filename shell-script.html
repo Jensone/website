@@ -18,7 +18,7 @@
     <meta property="og:audio" content="https://example.com/sound.mp3" />
     <meta property="og:audio:secure_url" content="https://secure.example.com/sound.mp3" />
     <meta property="og:audio:type" content="audio/mpeg" /> -->
-    <title>Tech & Éducation</title>
+    <title>Shell Scripting</title>
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body class="flex-container">
@@ -35,23 +35,23 @@
             </div>
             <ul class="flex-container">
                 <li class="nav_links">
-                    <a href="">
-                        Liens
+                    <a href="/">
+                        Accueil
                     </a>
                 </li>
                 <li class="nav_links">
-                    <a href="">
-                        Liens
+                    <a href="./algorithme.html">
+                        Algorithme
                     </a>
                 </li>
                 <li class="nav_links">
-                    <a href="">
-                        Liens
+                    <a href="./linux-admin.html">
+                        Linux Administration
                     </a>
                 </li>
                 <li class="nav_links">
-                    <a href="">
-                        Liens
+                    <a href="./shell-script.html">
+                        Shell Scripting
                     </a>
                 </li>
             </ul>
@@ -60,7 +60,7 @@
     <!-- Content -->
     <main>
         <h1></h1>
-        <div class="content"></div>
+        <section></section>
     </main>
 
     <!-- Footer -->
@@ -73,5 +73,18 @@
     </footer>
 
     <script src="./js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
+    <script>
+    convert()
+    function convert() {
+        fileName = 'shell-script.md'
+        let xmlHttp = new XMLHttpRequest()
+        xmlHttp.open( 'GET', fileName, true )
+        xmlHttp.onreadystatechange = function() {
+            md2html.innerHTML = xmlHttp.readyState === 4 ? new showdown.Converter({tables:true}).makeHtml( xmlHttp.responseText ) : ''
+        };
+        xmlHttp.send( null )
+    }
+    </script>
 </body>
 </html>
