@@ -2,7 +2,7 @@
 
 ## Updates
 
-Il sera mis à jour régulièrement. Côté contenu, je partage mes connaissances, mes découvertes, mes test et mes expériences.
+Il sera mis à jour régulièrement. Côté contenu, je partage mes connaissances, mes découvertes, mes tests et mes expériences.
 
 ## Technologies
 
