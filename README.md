@@ -6,4 +6,4 @@ Il sera mis à jour régulièrement. Côté contenu, je partage mes connaissance
 
 ## Technologies
 
-Simplement du code, du CSS, JavaScript et du Markdown.
+Simplement du code HTML, du CSS, JavaScript et du Markdown.
