@@ -134,7 +134,7 @@ Comprendre les permissions d'un fichier ou d'un répertoire :
 
 Les nombres octaux sont utilisés pour représenter les permissions. Il existe un tableau des nombres octaux :
 
-| Binaire | Octal | Utilisateur | Groupe | Autre |
+| Binaire | Octal | User | Group | Other |
 | :---: | :---: | :---: | :---: | :---: |
 | 000 | 0 | --- | --- | --- |
 | 001 | 1 | r-- | r-- | r-- |
