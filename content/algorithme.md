@@ -13,7 +13,7 @@ Entre autres, il s'agit de la base de la programmation. Elle précède l'écritu
 
 Voici les différentes étapes de la réalisation d'un programme :
 
-![algo](algo.jpg "algo")
+![algo](/img/algo.jpg "algo")
 
 Pour écrire un algorithme, il faut connaitre les différents éléments qui composent un programme.
 
@@ -266,7 +266,7 @@ D'ailleurs ce que vous lisez est-ce qu'on nomme du **pseudo-code**, il s'agit d'
 
 Exemple avec le dernier algorithme :
 
-![organigramme](organigramme.jpg "organigramme")
+![organigramme](/img/organigramme.jpg "organigramme")
 
 ## Conclusion
 

@@ -10,18 +10,18 @@ Voici les outils de l'application en détail :
 
 | Icônes | Nom | Usage |
 | :---: | :--- | :--- |
-| ![selection](selection.png "selection") | Outil de sélection | Sert à sélectionner, déplacer et redimensionner |
-| ![rectangle](rectangle.png "rectangle") | Outil rectangle | Permet de créer des rectangles divers |
-| ![ellipse](ellipse.png "ellipse") | Outil ellipse | Permet de créer des cercles et ellipses |
-| ![polygone](polygone.png "polygone") | Outil polygone | Permet de créer des polygones divers |
-| ![ligne](ligne.png "ligne") | Outil ligne | Permet de créer des lignes |
-| ![plume](plume.png "plume") | Outil plume | Permet de créer des formes libres |
-| ![texte](texte.png "texte") | Outil texte | Permet de créer des textes |
-| ![plan-de-travail](plan-de-travail.png "plan-de-travail") | Plan de travail | Sert à sélectionner, déplacer et redimensionner |
-| ![zoom](zoom.png "zoom") | Outil zoom | Sert à sélectionner, déplacer et redimensionner |
-| ![bibliotheque](bibliotheque.png "bibliotheque") | Bibliothèque | Sert à sélectionner, déplacer et redimensionner |
-| ![calques](calques.png "calques") | Gestion des calques | Sert à sélectionner, déplacer et redimensionner |
-| ![plugins](plugins.png "plugins") | Gestion des plugins | Sert à sélectionner, déplacer et redimensionner |
+| ![selection](/img/selection.png "selection") | Outil de sélection | Sert à sélectionner, déplacer et redimensionner |
+| ![rectangle](/img/rectangle.png "rectangle") | Outil rectangle | Permet de créer des rectangles divers |
+| ![ellipse](/img/ellipse.png "ellipse") | Outil ellipse | Permet de créer des cercles et ellipses |
+| ![polygone](/img/polygone.png "polygone") | Outil polygone | Permet de créer des polygones divers |
+| ![ligne](/img/ligne.png "ligne") | Outil ligne | Permet de créer des lignes |
+| ![plume](/img/plume.png "plume") | Outil plume | Permet de créer des formes libres |
+| ![texte](/img/texte.png "texte") | Outil texte | Permet de créer des textes |
+| ![plan-de-travail](/img/plan-de-travail.png "plan-de-travail") | Plan de travail | Sert à sélectionner, déplacer et redimensionner |
+| ![zoom](/img/zoom.png "zoom") | Outil zoom | Sert à sélectionner, déplacer et redimensionner |
+| ![bibliotheque](/img/bibliotheque.png "bibliotheque") | Bibliothèque | Sert à sélectionner, déplacer et redimensionner |
+| ![calques](/img/calques.png "calques") | Gestion des calques | Sert à sélectionner, déplacer et redimensionner |
+| ![plugins](/img/plugins.png "plugins") | Gestion des plugins | Sert à sélectionner, déplacer et redimensionner |
 
 -----
 
@@ -32,7 +32,7 @@ Le skeumorphisme est une tendance graphique qui consiste à réaliser des repré
 
 Voilà un exemple de skeumorphisme :
 
-![skeuomorphisme](skeuomorphisme.jpeg "skeuomorphisme")
+![skeuomorphisme](/img/skeuomorphisme.jpeg "skeuomorphisme")
 
 Cette tendance n'est plus utilisée et à laisser place à une nouvelle tendance plus moderne et simplifiée.
 
@@ -44,7 +44,7 @@ Le neumorphisme est issu de la combinaison réussie de l'aspect physique d'objet
 
 Voilà un exemple de neumorphisme :
 
-![neumorphism](neumorphism.jpeg "neumorphism")
+![neumorphism](/img/neumorphism.jpeg "neumorphism")
 
 ### Le flat design
 
@@ -54,7 +54,7 @@ On laisse de côté les reliefs et les dégradés inspiré des effets en 3D. On 
 
 Voilà un exemple de flat design :
 
-![flat-design](flat-design.png "flat-design")
+![flat-design](/img/flat-design.png "flat-design")
 
 -----
 
@@ -64,18 +64,22 @@ Rapide tour d'horizon sur la psychologie des couleurs en passant en revue les di
 
 | Couleur | Image |
 | :--- | :---: |
-| 1. Le rouge est utilisé pour les messages d'erreur, les messages d'avertissement et les messages de confirmation. Dans la vie de tous les jours il provoque chez l'humain une réaction de peur, d'urgence ou encore d'excitation selon les situations. | ![rouge](rouge.jpeg "rouge") |
-| 2. Le vert est utilisé pour les messages de succès. Il est utilisé pour signaler une action réalisée par l'utilisateur. Cette couleur nous évoque la réussite, la satisfaction, le naturel et a nature lorsqu'elle est associée à la couleur marron. | ![vert](vert.jpeg "vert") |
-| 3. Le bleu est utilisé pour les messages d'information. Il est utilisé pour signaler une information à l'utilisateur. Cette couleur nous évoque la connaissance, la compréhension, la confiance et la sécurité. | ![bleu](bleu.jpeg "bleu") |
-| 4. Le jaune est utilisé pour les messages d'avertissement. Il est utilisé pour signaler une information à l'utilisateur. Cette couleur nous évoque la vigilance, la prudence et la sécurité. Mais elle éveille aussi la créativité, la curiosité voir l'appétit lorsque qu'elle est associé à la couleur rouge. | ![jaune](jaune.jpeg "jaune") |
+| 1. Le rouge est utilisé pour les messages d'erreur, les messages d'avertissement et les messages de confirmation. Dans la vie de tous les jours il provoque chez l'humain une réaction de peur, d'urgence ou encore d'excitation selon les situations. | ![rouge](/img/rouge.jpeg "rouge") |
+| 2. Le vert est utilisé pour les messages de succès. Il est utilisé pour signaler une action réalisée par l'utilisateur. Cette couleur nous évoque la réussite, la satisfaction, le naturel et a nature lorsqu'elle est associée à la couleur marron. | ![vert](/img/vert.jpeg "vert") |
+| 3. Le bleu est utilisé pour les messages d'information. Il est utilisé pour signaler une information à l'utilisateur. Cette couleur nous évoque la connaissance, la compréhension, la confiance et la sécurité. | ![bleu](/img/bleu.jpeg "bleu") |
+| 4. Le jaune est utilisé pour les messages d'avertissement. Il est utilisé pour signaler une information à l'utilisateur. Cette couleur nous évoque la vigilance, la prudence et la sécurité. Mais elle éveille aussi la créativité, la curiosité voir l'appétit lorsque qu'elle est associé à la couleur rouge. | ![jaune](/img/jaune.jpeg "jaune") |
 
 ##### Nous n'allons pas revoir toutes les significations de ces couleurs dans cette section. Le but étant de vous y sensibiliser et de vous montrer comment les couleurs peuvent influencer l'expérience utilisateur.
 
 #### Ressources :
 
-    [Wikipedia](https://fr.wikipedia.org/wiki/Couleur)
-    [Wikipedia](https://fr.wikipedia.org/wiki/Psychologie_des_couleurs)
-    [Wikipedia](https://fr.wikipedia.org/wiki/Neumorphisme)
-    [Wikipedia](https://fr.wikipedia.org/wiki/Skeumorphisme)
-    [Wikipedia](https://fr.wikipedia.org/wiki/Flat_design)
+[Wikipedia : Couleur](https://fr.wikipedia.org/wiki/Couleur)
+
+[Wikipedia : Psychologie des couleurs](https://fr.wikipedia.org/wiki/Psychologie_des_couleurs)
+
+[Wikipedia : Neumorphisme](https://fr.wikipedia.org/wiki/Neumorphisme)
+
+[Wikipedia : Skeumorphisme](https://fr.wikipedia.org/wiki/Skeumorphisme)
+
+[Wikipedia : Flat design](https://fr.wikipedia.org/wiki/Flat_design)
 

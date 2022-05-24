@@ -8,7 +8,7 @@ Tout d'abord, vous devez installer ce système d'exploitation. Commençons ensem
 
 ### Cas 1 : Installer Linux dans une machine virtuelle sur Windows ou Mac
 
-    1. Téléchargez le [VM] (https://www.virtualbox.org/) ou [VMWare] (https://www.vmware.com/).
+    1. Téléchargez le [VM](https://www.virtualbox.org/) ou [VMWare](https://www.vmware.com/).
     2. Installez et configurez le logiciel de la machine virtuelle.
     3. Vous pouvez maintenant télécharger l'image ISO de la distribution Linux que vous souhaitez.
         3.1 Nous allons utiliser la distribution **Ubuntu** (https://www.ubuntu.com/). Elle est basée sur Debian, une distribution Linux populaire chez les administrateurs système.
@@ -28,7 +28,7 @@ Avant d'installer Linux, vous devez connaître les exigences minimales côté ma
 + Prévoir 2,5 Go pour une installation standard, plus un espace pour les données de l’utilisateur (/home) et la partition d’échange (/swap).
 + Une carte graphique pour l’interface graphique.
 
-Consultez la section [Configuration matérielle] (https://www.linux.org/download/) pour obtenir plus d'informations sur les pré-requis de la distribution que vous recherchez.
+Consultez la section [Configuration matérielle](https://www.linux.org/download/) pour obtenir plus d'informations sur les pré-requis de la distribution que vous recherchez.
 
     1. Téléchargez l'image ISO de la distribution Linux que vous recherchez.
     2. Téléchargez Rufus (sur Windows) ou Etcher (sur Mac), pour créer une clé USB "bootable".
@@ -96,7 +96,7 @@ $ man mv
 
 Pour créer un nouvel utilisateur, vous devez utiliser la commande `useradd`. Lorsque vous créez un nouvel utilisateur, vous devez spécifier le nom de l'utilisateur, le mot de passe et le groupe.
 
-Par défaut, l'utilisateur est créé dans le groupe `users`. Vous pouvez changer 
+Par défaut, l'utilisateur est créé dans le groupe `users`. Vous pouvez changer
 
 + le groupe en utilisant la commande `usermod`
 + le mot de passe de l'utilisateur à l'aide de la commande `passwd`

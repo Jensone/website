@@ -27,7 +27,8 @@ menu_items.innerHTML = `
 <li class="nav_links"><a href="./algorithme.html">Algorithme</a></li>
 <li class="nav_links"><a href="./linux-admin.html">Linux Administration</a></li>
 <li class="nav_links"><a href="./shell-script.html">Shell Scripting</a></li>
-<li class="nav_links"><a href="./adobe-xd">Adobe XD</a></li>
+<li class="nav_links"><a href="./adobe-xd.html">Adobe XD</a></li>
+<li class="nav_links"><a href="./dom.html">Document Object Model</a></li>
 `
 
 footer.innerHTML = `
