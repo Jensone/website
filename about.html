@@ -18,7 +18,7 @@
     <meta property="og:audio" content="https://example.com/sound.mp3" />
     <meta property="og:audio:secure_url" content="https://secure.example.com/sound.mp3" />
     <meta property="og:audio:type" content="audio/mpeg" /> -->
-    <title>Adobe XD</title>
+    <title>À propos de moi</title>
     <link rel="stylesheet" href="./css/main.css">
     <link rel="icon" type="img/x-icon" href="./img/favicon.ico">
 </head>
@@ -38,11 +38,24 @@
             </ul>
         </div>
     </nav>
-    
+
     <!-- Content -->
     <main>
         <h1></h1>
-        <section></section>
+        <section>
+            <div class="about">
+                <div class="about_me">
+                    <img src="./img/profil.png" alt="Image de profil">
+                    <div>
+                        <p>En activité professionnelle à mon compte depuis 2009, j'ai commencé en tant que graphiste. Ayant grandit dans une famille sensible au dessin, j'ai naturellement des prédispositions dans tout ce qui attrait au design. Tant sur l'aspect que l'expérience, dans mon travail je mets toujours l'utilisateur final au centre des projets. En 2012, je me forme au développement web, suite aux multiples sollicitations de mes clients pour la création de site internet. Cela à suivi avec le marketing numérique, la gestion de projet, la pédagogie, la psycologie sociale, l'entrepreneuriat... L'auto formation est indispensable dans mon quotidien, c'est un besoin constant d'apprendre et expérimenter de nouvelles choses chaque jour. J'aime aussi partager tout cela. Mon activité principale à ce jour, c'est la formation. Passionné de la tech et léducation, c'est avec implication et innovation que je forme différent public au métiers du numérique.</p>
+                        
+                    </div>
+                </div>
+                <div>
+                    <p></p>
+                </div>
+            </div>
+        </section>
     </main>
 
     <!-- Footer -->
@@ -50,18 +63,5 @@
     </footer>
 
     <script src="./js/main.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js"></script>
-    <script>
-    convert()
-    function convert() {
-        fileName = './content/adobe-xd.md'
-        let xmlHttp = new XMLHttpRequest()
-        xmlHttp.open( 'GET', fileName, true )
-        xmlHttp.onreadystatechange = function() {
-            md2html.innerHTML = xmlHttp.readyState === 4 ? new showdown.Converter({tables:true}).makeHtml( xmlHttp.responseText ) : ''
-        };
-        xmlHttp.send( null )
-    }
-    </script>
 </body>
 </html>

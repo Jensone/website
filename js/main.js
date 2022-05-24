@@ -21,9 +21,13 @@ document.querySelector('h1').innerHTML = document.title
 // Dynamic parts
 menu_items.innerHTML = `
 <li class="nav_links"><a href="./index.html">Accueil</a></li>
+<!-- <li class="nav_links"><a href="./about.html">À propos</a></li>
+<li class="nav_links"><a href="./contact.html">Contact</a></li> -->
+<li>-- Lire mes articles --</li>
 <li class="nav_links"><a href="./algorithme.html">Algorithme</a></li>
 <li class="nav_links"><a href="./linux-admin.html">Linux Administration</a></li>
 <li class="nav_links"><a href="./shell-script.html">Shell Scripting</a></li>
+<li class="nav_links"><a href="./adobe-xd">Adobe XD</a></li>
 `
 
 footer.innerHTML = `

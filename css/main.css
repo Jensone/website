@@ -145,3 +145,16 @@ footer p { font-size: .7rem; }
     height: 1.5rem;
     color: #353535;
 }
+
+/* About */
+.about_me {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    flex-wrap: wrap;
+}
+.about div img {
+    width: 320px;
+    height: auto;
+    border-radius: .5rem;
+}
+.about div p { padding: 0 .5rem; }
