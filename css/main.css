@@ -136,6 +136,7 @@ code {
     border-radius: 5px;
 }
 hr { margin: 2rem 0; }
+img { width: 100%; }
 
 /* Footer */
 footer { padding: 1rem; color: #F9F9F9; }
