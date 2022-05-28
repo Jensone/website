@@ -13,13 +13,13 @@ Entre autres, il s'agit de la base de la programmation. Elle précède l'écritu
 
 Voici les différentes étapes de la réalisation d'un programme :
 
-![algo](/img/algo.jpg "algo")
+![algo](./img/algo.jpg "algo")
 
 Pour écrire un algorithme, il faut connaitre les différents éléments qui composent un programme.
 
 ##### 1. Les variables
 
-Les variables sont des moyens de stocker des données. Elles sont déclarées avec ou sans le mot clé et suivies d'un nom.
+Les variables sont des moyens de stocker des données. Elles sont déclarées avec ou sans le mot-clé et suivies d'un nom.
 
 Une variable reçoit une valeur lorsqu'elle est déclarée. Ces valeurs peuvent être de différents types.
 
@@ -76,6 +76,8 @@ Début
 Fin 
 ```
 
+Q1 - La réponse est à la fin de la page.
+
 Quelle est la valeur de la variable nbrC ?
 
 ##### 4. Les boucles
@@ -96,6 +98,8 @@ Début
 fin 
 ```
 
+Q2 - La réponse est à la fin de la page.
+
 Quelle est la valeur de la variable nbrA à la fin de la boucle ?
 
 Attention, la boucle `tant que` ne fonctionne que si la condition est vraie au début. Cependant, assurez-vous que la condition puisse s'arrêter car cela peut devenir une boucle infinie.
@@ -106,11 +110,13 @@ Exemple :
 ```
 Début
     nbrA = 1
-    pour nbrA in [1, 2, 3, 4, 5]
+    pour nbrA dans [1, 2, 3, 4, 5]
         nbrA = nbrA + 1
     fin pour
 Fin 
 ```
+
+Q3 - La réponse est à la fin de la page.
 
 Quelle est la valeur de la variable nbrA à la fin de la boucle ?
 
@@ -266,11 +272,17 @@ D'ailleurs ce que vous lisez est-ce qu'on nomme du **pseudo-code**, il s'agit d'
 
 Exemple avec le dernier algorithme :
 
-![organigramme](/img/organigramme.jpg "organigramme")
+![organigramme](./img/organigramme.jpg "organigramme")
 
 ## Conclusion
 
 L'algorithme est la base de tout programme. Il permet de définir des actions à réaliser afin de résoudre un problème, mais surtout d'en aborder tous les aspects dans le but de pouvoir réaliser des solutions adéquates.
+
+###### Réponses aux questions des variables
+
+Q1 : La valeur de nbrC est 3
+Q2 : La valeur de nbrA est 9
+Q3 : La valeur de nbrA est 6
 
 -----
 
