@@ -13,9 +13,9 @@ Entre autres, il s'agit de la base de la programmation. Elle précède l'écritu
 
 Voici les différentes étapes de la réalisation d'un programme :
 
-![algo](./img/algo.jpg "algo")
+![algo](/img/algo.jpg "algo")
 
-Pour écrire un algorithme, il faut connaitre les différents éléments qui composent un programme.
+Pour écrire un algorithme, il faut connaître les différents éléments qui composent un programme.
 
 ##### 1. Les variables
 
@@ -110,7 +110,7 @@ Exemple :
 ```
 Début
     nbrA = 1
-    pour nbrA dans [1, 2, 3, 4, 5]
+    pour chaque valeur dans [1, 2, 3, 4, 5]
         nbrA = nbrA + 1
     fin pour
 Fin 
@@ -272,7 +272,7 @@ D'ailleurs ce que vous lisez est-ce qu'on nomme du **pseudo-code**, il s'agit d'
 
 Exemple avec le dernier algorithme :
 
-![organigramme](./img/organigramme.jpg "organigramme")
+![organigramme](/img/organigramme.jpg "organigramme")
 
 ## Conclusion
 
@@ -282,7 +282,7 @@ L'algorithme est la base de tout programme. Il permet de définir des actions à
 
 Q1 : La valeur de nbrC est 3
 Q2 : La valeur de nbrA est 9
-Q3 : La valeur de nbrA est 6
+Q3 : La valeur de nbrA est 5
 
 -----
 
@@ -301,6 +301,6 @@ Q3 : La valeur de nbrA est 6
 11. Créer un algorithme qui change la chaîne d'une télévision.
 12. Créer un algorithme représentant l'utilisation d'un ascenseur.
 13. Créer un algorithme qui permet de déterminer si une année est bissextile.
-14. Créer un algorithme qui permet de d'afficher le jour de la semaine d'une et de la date d'aujourd'hui.
+14. Créer un algorithme qui permet d'afficher le jour de la semaine d'une et de la date d'aujourd'hui.
 15. Créer un algorithme qui annonce la météo d'une ville.
 16. Créer un algorithme qui contrôle l'accès à un site web.
