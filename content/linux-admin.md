@@ -8,13 +8,13 @@ Tout d'abord, vous devez installer ce système d'exploitation. Commençons ensem
 
 ### Cas 1 : Installer Linux dans une machine virtuelle sur Windows ou Mac
 
-    1. Téléchargez le [VM](https://www.virtualbox.org/) ou [VMWare](https://www.vmware.com/).
-    2. Installez et configurez le logiciel de la machine virtuelle.
-    3. Vous pouvez maintenant télécharger l'image ISO de la distribution Linux que vous souhaitez.
-        3.1 Nous allons utiliser la distribution **Ubuntu** (https://www.ubuntu.com/). Elle est basée sur Debian, une distribution Linux populaire chez les administrateurs système.
-    4. Installez la distribution Linux à travers le logiciel de la machine virtuelle.
-    5. Suivez les instructions pendant l'installation.
-    6. Après l'installation, vous pouvez utiliser le logiciel de la machine virtuelle pour démarrer la distribution Linux.
+1. Téléchargez-le [Virtual Box](https://www.virtualbox.org/) ou [VMWare](https://www.vmware.com/).
+2. Installez et configurez le logiciel de la machine virtuelle.
+3. Vous pouvez maintenant télécharger l'image ISO de la distribution Linux que vous souhaitez.
+    3.1 Nous allons utiliser la distribution **Ubuntu** (https://www.ubuntu.com/). Elle est basée sur Debian, une distribution Linux populaire chez les administrateurs système.
+4. Installez la distribution Linux à travers le logiciel de la machine virtuelle.
+5. Suivez les instructions pendant l'installation.
+6. Après l'installation, vous pouvez utiliser le logiciel de la machine virtuelle pour démarrer la distribution Linux.
 
 Pourquoi utiliser une machine virtuelle pour installer Linux ? C'est un bon moyen d'installer Linux, car c'est une machine virtuelle, donc plus sûre et vous pouvez installer plusieurs distributions Linux sur la même machine virtuelle.
 
