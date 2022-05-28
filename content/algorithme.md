@@ -13,7 +13,7 @@ Entre autres, il s'agit de la base de la programmation. Elle précède l'écritu
 
 Voici les différentes étapes de la réalisation d'un programme :
 
-![algo](/img/algo.jpg "algo")
+![algo](./img/algo.jpg "algo")
 
 Pour écrire un algorithme, il faut connaître les différents éléments qui composent un programme.
 
@@ -272,7 +272,7 @@ D'ailleurs ce que vous lisez est-ce qu'on nomme du **pseudo-code**, il s'agit d'
 
 Exemple avec le dernier algorithme :
 
-![organigramme](/img/organigramme.jpg "organigramme")
+![organigramme](./img/organigramme.jpg "organigramme")
 
 ## Conclusion
 
@@ -281,8 +281,10 @@ L'algorithme est la base de tout programme. Il permet de définir des actions à
 ###### Réponses aux questions des variables
 
 Q1 : La valeur de nbrC est 3
+
 Q2 : La valeur de nbrA est 9
-Q3 : La valeur de nbrA est 5
+
+Q3 : La valeur de nbrA est 6
 
 -----
 
